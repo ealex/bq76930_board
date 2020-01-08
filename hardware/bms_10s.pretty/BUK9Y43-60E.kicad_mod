@@ -1,0 +1,8 @@
+(module BUK9Y43-60E (layer F.Cu) (tedit 5E00A05B)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BUK9Y43-60E (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
